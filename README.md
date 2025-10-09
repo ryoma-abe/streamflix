@@ -75,7 +75,3 @@ npm run dev
 映画データは[The Movie Database (TMDB)](https://www.themoviedb.org/)から提供されています。
 
 ---
-
-<p align="center">
-  Made with ❤️ by [Your Name]
-</p>
